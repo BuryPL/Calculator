@@ -1,0 +1,23 @@
+#calculator {
+  width: 400px;
+  height: 400px;
+  background-color: grey;
+}
+
+#title {
+  width: 100%;
+  padding: 10px 0;
+  text-align:center;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+#main_form {
+    width: 100%;
+    padding: 10px;
+}
+
+#input_math {
+    width: 100%;
+    font-size: 30px;
+}
